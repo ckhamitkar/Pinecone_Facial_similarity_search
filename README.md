@@ -1,0 +1,1 @@
+Facial Similarity Search using DeepFace to create the embeddings and storing them in Pinecone. Then check for the similarity score for the father and child images and the mother and child images. 
